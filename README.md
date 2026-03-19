@@ -80,7 +80,3 @@ The dataset contains real-world COVID-19 data including:
 
 ---
 
-## ▶️ How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shsarv/Data-Analytics-Projects-in-python.git
